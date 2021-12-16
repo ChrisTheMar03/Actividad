@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "mountain": "Yosemite",
+    "imagen": "https://img.freepik.com/free-vector/cartoon-mountain-landscape-with-summer-forest_441769-103.jpg?size=626&ext=jpg",
+    "pais": "USA, California"
+  },
+  {
+    "id": "2",
+    "mountain": "Cascade",
+    "imagen": "https://img.freepik.com/free-vector/colorful-background-natural-landscape-with-mountains-river_18591-3180.jpg?size=338&ext=jpg",
+    "pais": "Canada, Baniff"
+  },{
+  "id": "3",
+  "mountain": "Huascaran",
+  "imagen": "https://image.freepik.com/free-vector/nature-scene-night-with-river-mountain-background_1308-59463.jpg",
+  "pais": "Peru, Ancash"
+},{
+  "id": "4",
+  "mountain": "Ness",
+  "imagen": "https://i.pinimg.com/736x/2a/ab/97/2aab9748451e2c7b4f252875fca21dd2.jpg",
+  "pais": "Peru, Cajamarca"
+  }
+]
